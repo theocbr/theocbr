@@ -1,7 +1,7 @@
 ### HI EVERYONE 👋
 
-🌱 I’m currently learning JAVASCRIPT & REACT 
-- 😄  I’m using HTML/CSS & PHP too !
+🌱 I’m currently learning JAVASCRIPT & REACT  
+😄  I’m using HTML/CSS & PHP too !
 <!--
 **theocbr/theocbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
