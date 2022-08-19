@@ -1,7 +1,8 @@
 ### HI EVERYONE 👋
 
 🌱 I’m currently learning JAVASCRIPT & REACT  
-😄  I’m using HTML/CSS & PHP too !
+😄 I’m using HTML/CSS & PHP too !
+⚡ I know Wordpress with Elementor !
 <!--
 **theocbr/theocbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
